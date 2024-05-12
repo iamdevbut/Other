@@ -1,1 +1,2 @@
 This is script 2
+this is script 2 but 2. satır burası
