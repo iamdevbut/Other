@@ -1,2 +1,3 @@
 ahmetin birinci satiri
 ahmetin ikinci satiri
+AHMET 3
